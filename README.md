@@ -31,6 +31,3 @@
 4. Run the application:
    ```bash
    python main.py
-
-
-Or just install release file and open it.
