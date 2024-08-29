@@ -18,7 +18,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Dexer123/Dexer-chat.git
+   git clone https://github.com/Dexer123/Dexers-chat.git
 
 2. Navigate to the project directory:
    ```bash
